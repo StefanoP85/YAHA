@@ -6,7 +6,7 @@ This is my first electronic project, a simple headphone amplifier, clerly inspir
 | Reference | Quantity | Description | Mouser part number | RS part number | AliExpress |
 | --------- | -------- | ----------- | ------------------ | -------------- | ---------- |
 | R1, R102, R202|3|Resistore 4,7 KΩ 0,25 W|603-MFR-25FBF52-4K7|199-7625|
-| R101, R201|2|Resistore 1 MΩ 0,25 W|603-MFR-25FBF52-1M|199-5032|
+| R101, R201|2|Resistore 1 MΩ 0,125 W|603-MFR-12FTF52-1M|199-5032|
 | R103, R203|2|Resistore 1 KΩ 0,25 W|603-MFR-25FBF52-1K|199-7601|
 | R104, R204|2|Resistore 47 Ω 0,25 W|603-MFR-25FBF52-47R|199-7623|
 | RV1|1|Potenziometro doppio audio 50 KΩ|688-RK09712200HA|249-9159|
