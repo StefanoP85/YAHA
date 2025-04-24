@@ -1,7 +1,7 @@
 # YAHA
 YAHA: Yet Another Headphone Amplifier
 
-This is my first electronic project, a simple headphone amplifier, clerly inspired by the TubeAmp from Dario Murgia's repository @ [https://github.com/Darmur/tubeamp]. I designed it, to fit in the same enclosure too.
+This is my first electronic project, a simple headphone amplifier, clearly inspired by the TubeAmp from Dario Murgia's repository @ [https://github.com/Darmur/tubeamp]. I designed it, to fit in the same enclosure too.
 
 | Reference | Quantity | Description | Mouser part number | RS part number | AliExpress |
 | --------- | -------- | ----------- | ------------------ | -------------- | ---------- |
